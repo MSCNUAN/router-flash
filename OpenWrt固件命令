@@ -1,0 +1,5 @@
+#openwrt/x-wrt需要用到的一些命令（还未完成）
+
+#如安装ipk文件可以可以执行这条命令:opkg install xxx.ipk  （xxx是你下载好的ipk插件，install然后按空格再拖入文件再回车即可。）
+
+#opkg update （更新软件源，在ssh执行安装时先执行这条命令）
