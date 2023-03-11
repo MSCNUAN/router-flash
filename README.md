@@ -31,10 +31,8 @@
 
 三：都购买完了直接下载我自己整理的热点机免流必备软件（我的tg群也有。）
 
-（1）：山东钉购买：  https://t.me/MSCNUAN4652/1702?single
 
-
-（2）：热点机免流压缩包下载：一：（网盘版只保留免流最基础的工具）：https://wwt.lanzouw.com/ilEVr0ec5lyh  （密码：nuan）    二（完整版，杂七杂八的都有）：我的TG群直接发送：热点机免流。
+（1）：热点机免流压缩包下载：一：（网盘版只保留免流最基础的工具）：https://wwt.lanzouw.com/ilEVr0ec5lyh  （密码：nuan）    二（完整版，杂七杂八的都有）：我的TG群直接发送：热点机免流。
 
 
 
@@ -52,15 +50,13 @@
 
 
 
-本期视频材料：
+相关材料：
 
 一: 1:  热点机免流压缩包下载：（网盘版只保留免流最基础的工具）：https://wwt.lanzouw.com/ilEVr0ec5lyh  （密码：nuan）  
 
   2：（完整版，杂七杂八的都有）：进入我的TG群直接发送：热点机免流。
 
-二：vpn热点下载：https://github.com/Mygod/VPNHotspot/releases/tag/v2.15.4
-
-三：  山东钉卡购买：  https://t.me/MSCNUAN4652/1702?single
+三：vpn热点下载：https://github.com/Mygod/VPNHotspot/releases/tag/v2.15.4
 
 四: 联通流量监控： https://github.com/JunXiaoRuo/unicom
 
