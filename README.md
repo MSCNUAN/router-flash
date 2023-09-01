@@ -5,6 +5,7 @@
 
 阅读前提示：该教程是本人参考了部分教程和自己的测试总结出来的，如有哪里不对或者补充欢迎去我的TG群私聊我，该教程非常适合想要玩进阶免流或者家里没有宽带但是有无限定向的卡来当家庭宽带使用。
 
+
 需要的材料：一台已经刷好面具的手机、一台刷好系统的路由器、一根数据线。
 
 
@@ -13,9 +14,11 @@
 
 注意事项：
 
+
 （1）：如果有刷机基础就直接买没刷面具的机器，刷好面具的机器比较难找。  
 
-      （2）：大部分热点机usb口都是2.0，最高共享速度只能到300mbps，usb3.0口最高应该是1g，这点对速度有要求的一定要注意，哪怕路由器是usb3.0但是手机是2.0的速度最高也是300mbps。
+
+（2）：大部分热点机usb口都是2.0，最高共享速度只能到300mbps，usb3.0口最高应该是1g，这点对速度有要求的一定要注意，哪怕路由器是usb3.0但是手机是2.0的速度最高也是300mbps。
 
 
 
@@ -23,7 +26,8 @@
 
 注意事项：
 
-  （1）：路由器一定要买有带usb口的，需要用usb口来连接手机，路由器usb口最好也是3.0的，这样以后更换usb3.0的热点机就可以享受到最高速度（最高速度和卡的最高速度套餐有关！）。
+（1）：路由器一定要买有带usb口的，需要用usb口来连接手机，路由器usb口最好也是3.0的，这样以后更换usb3.0的热点机就可以享受到最高速度（最高速度和卡的最高速度套餐有关！）。
+
 
 （2）：路由器后台的设置如果没有一定的基础就别乱动！！
 
@@ -52,15 +56,15 @@
 
 相关材料：
 
-一: 1:  热点机免流压缩包下载：（网盘版只保留免流最基础的工具）：https://wwt.lanzouw.com/ilEVr0ec5lyh  （密码：nuan）  
+一:  热点机免流压缩包下载： ：https://pan.quark.cn/s/36650d7756b7
+ 
+二：vpn热点下载：https://github.com/Mygod/VPNHotspot/releases/tag/v2.15.4
 
-  2：（完整版，杂七杂八的都有）：进入我的TG群直接发送：热点机免流。
+三: 联通流量监控： https://github.com/JunXiaoRuo/unicom
 
-三：vpn热点下载：https://github.com/Mygod/VPNHotspot/releases/tag/v2.15.4
+四：Magisk安装教程： https://sspai.com/post/67932
 
-四: 联通流量监控： https://github.com/JunXiaoRuo/unicom
 
-五：Magisk安装教程： https://sspai.com/post/67932
 
 
 我的电报聊天室：https://t.me/MSC4652 
@@ -74,20 +78,13 @@
 
 自用推荐的免流机场:
 
-橘子：（有国内节点，稳定，有独立app和魔改的免流模块，搭配使用效果不错！！）：https://wogame.org/#/register?code=jowAtNrh
 
-Elkcloud：（便宜流量大，有免费试用，要稳定还是推荐橘子。）：https://www.elkcloud.top/auth/register?code=8Wkm
-
-网盘免流内容获取：加入tg群输入：网盘合集或网盘内容获取！
-
-
-各种免费实惠电话卡选购网址（有售后的联系我！）：http://www.91haoka.cn/91haoka_platform/#/minishop?share_id=374115&shop_name=%25E6%259A%2596%25E6%259A%25964652
-
-
-购卡QQ（处理售后问题）： https://t.me/MSCNUAN4652/1591
-
-
-我的微信公众号： https://t.me/MSCNUAN4652/1136
+橘子（有国内节点，稳定，有独立app和独立免流模块，搭配使用效果很棒！！）：https://wogame.org/#/register?code=OF8d3XZ5
 
 
 
+SKY VPN （便宜流量大，有免费试用。）：https://www.skyvpn.one/auth/register?code=8Wkm
+
+
+
+各种免费实惠电话卡选购网址（三大运营商官方都可查，放心购买！）：https://51haoka.store/index?k=YktYNmtrWTN2R1k9
