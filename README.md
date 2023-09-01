@@ -8,6 +8,8 @@
 小米R3G路由器个人使用固件： https://github.com/MSCNUAN/xiaomr3g-personal-use-firmware
 
 
+
+
 需要的材料：一台已经刷好面具的手机、一台刷好系统的路由器、一根数据线。
 
 
