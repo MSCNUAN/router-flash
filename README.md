@@ -93,3 +93,7 @@ SKY VPN （便宜流量大，有免费试用。）：https://www.skyvpn.one/auth
 
 
 各种免费实惠电话卡选购网址（三大运营商官方都可查，放心购买！）：https://51haoka.store/index?k=YktYNmtrWTN2R1k9
+
+
+![下载](https://github.com/MSCNUAN/router-flash/assets/77392262/92dc5fee-fb8d-4d16-8e9a-cd9fae0959ab)
+
